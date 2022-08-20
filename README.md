@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @evgihin
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java, rest
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me evgihin@gmail.com
+Добро пожаловать в мастерскую!
+
+Меня зовут Женя и Я программист.
+
+Если вам нужна моя помощь, позжалуйста обращайтесь: evgihin@gmail.com
 
 <!---
 evgihin/evgihin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
